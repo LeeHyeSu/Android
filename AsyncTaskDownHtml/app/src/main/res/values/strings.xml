@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTaskDownHtml</string>
+    <string name="target_url">http://www.google.com</string>
+</resources>

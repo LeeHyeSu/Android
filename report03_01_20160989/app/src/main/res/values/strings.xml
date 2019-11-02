@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">report03_01_20160989</string>
+    <string name="openapi_url">https://openapi.naver.com/v1/search/local.xml?display=10&amp;start=1&amp;sort=random&amp;query=</string>
+</resources>
